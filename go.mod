@@ -5,7 +5,7 @@ go 1.22.0
 require (
 	github.com/Shopify/sarama v1.38.1
 	github.com/VictoriaMetrics/fastcache v1.12.2
-	github.com/briandowns/spinner v1.23.1
+	github.com/briandowns/spinner v1.23.2
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/gofiber/adaptor/v2 v2.2.1
 	github.com/gofiber/fiber/v2 v2.52.5
